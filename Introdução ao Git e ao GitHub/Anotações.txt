@@ -1,0 +1,24 @@
+	                   windows	         linux	
+	                    dir	                   ls	
+navegar entre as pastas	    cd / 	           cd /	
+subir pasta específica	    cd pasta	           cd pasta	
+voltar para outra pasta	    cd .. (1 nivel)	   cd .. (1 nivel)	
+pasta específica	    cd windows	           cd etc	
+limpar tela	            cls clear scl	   clear ou ctrl L	
+completar a palavra	                     tab		
+criar pasta 	            mkdir nomedapasta	   mkdir	
+fazer um arquivo	    echo nome >hello.txt		
+excluir arquivo 	    del		
+deletar pasta 	            rmdir nome /S /Q	   rm -rf 	
+histórico de comando	    seta pra cima		
+apagar	                    crtl L 		
+	                    git init		
+	                    ls -a		
+	                    cd .git/		
+	                    git config --global user.name nome		
+	                    git config --global user.email email		
+	                    git status		
+remover	                    mv pasta.tipo		
+	                    mv panqueca.md  ./receitas/		
+	                    git add panqqueca.md receitas/		
+	                    echo > README.md		
